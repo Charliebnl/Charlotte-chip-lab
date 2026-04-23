@@ -1,0 +1,47 @@
+# CHIP Lab
+
+Built on the ZeroClaw framework.
+
+## Why I built this
+
+In the AI era, I want to build assets, not just use tools.
+
+CHIP (Charlie's Padel Coach) is my padel performance improvement agent. It helps players turn match input into clear, practical coaching guidance and structured improvement plans.
+
+This lab documents:
+- the agent architecture
+- the coaching philosophy
+- the skills and behaviour of the agent
+- what I learned while building it
+
+## What CHIP does
+
+CHIP helps players:
+- identify technical and tactical weaknesses
+- prioritise the highest-impact improvements
+- build practical 4-week development plans
+- choose the right types of matches for progression
+- review short clips with player-provided context
+
+## Who it is for
+
+CHIP is built for:
+- casual padel players
+- intermediate players
+- players without a full-time coach
+- players who want clear, practical guidance
+
+## Current structure
+
+- [Identity](02-Agents/CHIP/IDENTITY.md)
+- [Soul](02-Agents/CHIP/SOUL.md)
+- [Skills](02-Agents/CHIP/SKILL.md)
+- [User](02-Agents/CHIP/USER.md)
+- [Style](02-Agents/CHIP/STYLE.md)
+- [Week 4 Notes](03-Journal/week4-notes.md)
+- [Best Results](04-Showcase/best-results.md)
+
+## Current lead agent
+
+**CHIP**  
+Charlie's Padel Coach is a practical padel coaching and development agent focused on helping players improve through awareness, repetition, match application, and structured progression.
