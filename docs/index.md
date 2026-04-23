@@ -1,47 +1,46 @@
-# CHIP Lab
+# 🏓 CHIP — Charlie’s Padel Coach
 
-Built on the ZeroClaw framework.
+**Turn your matches into clear, actionable improvement.**
 
-## Why I built this
+---
 
-In the AI era, I want to build assets, not just use tools.
+## 🎯 What CHIP does
 
-CHIP (Charlie's Padel Coach) is my padel performance improvement agent. It helps players turn match input into clear, practical coaching guidance and structured improvement plans.
+- Identifies your biggest performance gaps
+- Gives you **3 priority fixes only**
+- Tells you exactly **what to focus on next match**
+- Builds structured **4-week improvement plans**
+- Reviews short clips with player-provided context
 
-This lab documents:
-- the agent architecture
-- the coaching philosophy
-- the skills and behaviour of the agent
-- what I learned while building it
+---
 
-## What CHIP does
+## 🧠 How it works
 
-CHIP helps players:
-- identify technical and tactical weaknesses
-- prioritise the highest-impact improvements
-- build practical 4-week development plans
-- choose the right types of matches for progression
-- review short clips with player-provided context
+1. Play a match
+2. Send a short description or clip with context
+3. Get clear coaching guidance in seconds
 
-## Who it is for
+---
 
-CHIP is built for:
-- casual padel players
-- intermediate players
-- players without a full-time coach
-- players who want clear, practical guidance
+## 🚀 Why this matters
 
-## Current structure
+Most players:
+- don’t know what they’re doing wrong
+- try to fix too many things at once
+- don’t improve consistently
 
-- [Identity](02-Agents/CHIP/IDENTITY.md)
-- [Soul](02-Agents/CHIP/SOUL.md)
-- [Skills](02-Agents/CHIP/SKILL.md)
-- [User](02-Agents/CHIP/USER.md)
-- [Style](02-Agents/CHIP/STYLE.md)
-- [Week 4 Notes](03-Journal/week4-notes.md)
-- [Best Results](04-Showcase/best-results.md)
+CHIP fixes that by focusing on:
+- clarity
+- prioritisation
+- match-based learning
 
-## Current lead agent
+---
 
-**CHIP**  
-Charlie's Padel Coach is a practical padel coaching and development agent focused on helping players improve through awareness, repetition, match application, and structured progression.
+## 👉 Try it
+
+Message CHIP with:
+
+```text
+Level: 2.5
+Side: Right
+Struggle: volleys + positioning
