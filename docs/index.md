@@ -30,22 +30,26 @@ hide:
 ## 🚀 Why this matters
 
 Most players:
+
 - don’t know what they’re doing wrong
 - try to fix too many things at once
 - don’t improve consistently
 
 CHIP fixes that by focusing on:
+
 - clarity
 - prioritisation
 - match-based learning
 
 ---
 
-## 👉 Try it
-
-Message CHIP with:
+## 👉 Use CHIP like this:
 
 ```text
+
 Level: 2.5
 Side: Right
 Struggle: volleys + positioning
+Goal: improve net play
+
+```
