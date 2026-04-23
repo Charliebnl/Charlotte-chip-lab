@@ -1,6 +1,9 @@
-site_name: Charlotte's CHIP Lab
-site_description: "Padel coaching agent and performance system"
-site_author: "Charlotte"
+site_name: CHIP — Charlie’s Padel Coach
+site_description: Turn your matches into clear, actionable improvement
+site_author: Charlotte
+
+extra:
+  homepage: https://Charliebnl.github.io/Charlotte-chip-lab/
 
 theme:
   name: material
@@ -14,11 +17,17 @@ theme:
       toggle:
         icon: material/weather-night
         name: Dark mode
+  font:
+    text: Inter
+    code: JetBrains Mono
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.instant
     - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
 
 nav:
   - Home: index.md
