@@ -1,7 +1,9 @@
 ---
 hide:
   - navigation
----# 🏓 CHIP — Charlie’s Padel Coach
+---
+
+# 🏓 CHIP — Charlie’s Padel Coach---
 
 **Turn your matches into clear, actionable improvement.**
 
